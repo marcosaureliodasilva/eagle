@@ -1,0 +1,14 @@
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Electrical Rule Check for C:/Arquivos de programas/EAGLE-4.11/projects/pm8fios/pm8fios.sch at 24/08/2007 15:06:52 
+
+WARNING: Sheet 1/1: POWER Pin U$1 GND connected to N$1
+WARNING: Sheet 1/1: POWER Pin U$1 VCC connected to N$19
+WARNING: Sheet 1/1: Nets N$15 and N$13 too close at (17.78 55.88)
+WARNING: Sheet 1/1, Net N$16: wire overlaps pin at (50.8 55.88)
+WARNING: Sheet 1/1, Net N$15: wire overlaps pin at (17.78 55.88)
+
+Board and schematic are consistent
+
+    0 errors
+    5 warnings

@@ -1,0 +1,12 @@
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Electrical Rule Check for C:/Arquivos de programas/EAGLE-4.11/projects/sensor/sensor.sch at 29/11/2007 10:24:24 
+
+WARNING: Sheet 1/1: POWER Pin IC2A V+ connected to N$3
+WARNING: Sheet 1/1: POWER Pin IC2A GND connected to N$7
+ERROR: 2 OUTPUT Pins on net N$4
+
+Board and schematic are consistent
+
+    1 errors
+    2 warnings

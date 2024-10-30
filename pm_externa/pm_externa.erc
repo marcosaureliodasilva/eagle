@@ -1,0 +1,12 @@
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Electrical Rule Check for C:/Arquivos de programas/EAGLE-4.11/projects/pm_externa/pm_externa.sch at 20/08/2007 15:22:48 
+
+ERROR: Sheet 1/1: unconnected INPUT Pin: IC1 TR
+ERROR: Sheet 1/1: no SUPPLY for POWER Pin IC1 V+
+WARNING: Sheet 1/1: POWER Pin IC1 GND connected to N$3
+
+Board and schematic are consistent
+
+    2 errors
+    1 warnings

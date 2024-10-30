@@ -1,0 +1,11 @@
+EAGLE Version 4.11 Copyright (c) 1988-2003 CadSoft
+
+Electrical Rule Check for C:/Arquivos de programas/EAGLE-4.11/projects/eletric/eletric.sch at 11/04/2007 16:45:05 
+
+WARNING: Sheet 1/1: POWER Pin IC2 V+ connected to N$5
+WARNING: Sheet 1/1: POWER Pin IC2 GND connected to N$6
+
+Board and schematic are consistent
+
+    0 errors
+    2 warnings
